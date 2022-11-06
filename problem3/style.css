@@ -1,0 +1,12 @@
+.form-inline {
+	width: 800px;
+	padding: 20px;
+}
+.btn{
+	border-radius: 10px;
+	background-color: white;
+	color: black;	
+}
+.list-group{
+	width: 500px;
+}
